@@ -1,0 +1,6 @@
+gradio
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
