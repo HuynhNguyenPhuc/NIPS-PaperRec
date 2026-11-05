@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200">
+<rect width="720" height="200" fill="#ffffff"/>
+<circle cx="110" cy="96" r="30" fill="#1e293b"/>
+<text x="110" y="100" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="normal">query</text>
+<text x="110" y="150" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle" font-weight="normal">support · vector · machine</text>
+<line x1="140" y1="96" x2="310" y2="62" stroke="#2563eb" stroke-width="4.1" opacity="0.7"/>
+<circle cx="330" cy="62" r="16" fill="#2563eb" stroke="#2563eb"/>
+<text x="330" y="66" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="normal">3</text>
+<line x1="140" y1="96" x2="310" y2="110" stroke="#2563eb" stroke-width="3.0" opacity="0.7"/>
+<circle cx="330" cy="110" r="16" fill="#2563eb" stroke="#2563eb"/>
+<text x="330" y="114" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="normal">2</text>
+<line x1="140" y1="96" x2="310" y2="158" stroke="#2563eb" stroke-width="1.9" opacity="0.7"/>
+<circle cx="330" cy="158" r="16" fill="#2563eb" stroke="#2563eb"/>
+<text x="330" y="162" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="normal">1</text>
+<line x1="140" y1="96" x2="480" y2="62" stroke="#2563eb" stroke-width="3.0" opacity="0.7"/>
+<circle cx="500" cy="62" r="16" fill="#2563eb" stroke="#2563eb"/>
+<text x="500" y="66" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="normal">2</text>
+<line x1="140" y1="96" x2="480" y2="158" stroke="#2563eb" stroke-width="1.9" opacity="0.7"/>
+<circle cx="500" cy="158" r="16" fill="#2563eb" stroke="#2563eb"/>
+<text x="500" y="162" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="normal">1</text>
+<circle cx="640" cy="110" r="16" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="640" y="114" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="middle" font-weight="normal">0</text>
+<text x="500" y="194" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="middle" font-weight="normal">number on each paper = shared kept terms</text>
+<text x="30" y="26" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Candidates are ranked by shared kept terms (ties by TF-IDF).</text>
+</svg>
