@@ -1,0 +1,108 @@
+{
+  "describe": {
+    "papers": 7238,
+    "year_min": 1987,
+    "year_max": 2017,
+    "unique_authors": 9784,
+    "paper_author_links": 20823,
+    "papers_without_authors": 0,
+    "authors_per_paper_mean": 2.8768996960486324,
+    "authors_per_paper_median": 3.0,
+    "authors_per_paper_max": 18,
+    "duplicated_titles": 0,
+    "title_tokens_median": 6.0
+  },
+  "title_terms": {
+    "distinct_terms": 5408,
+    "terms_dropped_by_max_df": 6,
+    "max_df_threshold_papers": 361.90000000000003,
+    "top_terms": [
+      [
+        "learning",
+        1548
+      ],
+      [
+        "neural",
+        645
+      ],
+      [
+        "networks",
+        598
+      ],
+      [
+        "models",
+        485
+      ],
+      [
+        "using",
+        455
+      ],
+      [
+        "model",
+        401
+      ],
+      [
+        "bayesian",
+        292
+      ],
+      [
+        "data",
+        281
+      ],
+      [
+        "based",
+        280
+      ],
+      [
+        "network",
+        266
+      ],
+      [
+        "inference",
+        262
+      ],
+      [
+        "analysis",
+        243
+      ],
+      [
+        "multi",
+        224
+      ],
+      [
+        "sparse",
+        222
+      ],
+      [
+        "optimization",
+        216
+      ],
+      [
+        "classification",
+        212
+      ],
+      [
+        "gaussian",
+        212
+      ],
+      [
+        "estimation",
+        202
+      ],
+      [
+        "time",
+        196
+      ],
+      [
+        "linear",
+        194
+      ]
+    ]
+  },
+  "related_papers": {
+    "median": 10.0,
+    "mean": 15.947222989776181,
+    "share_with_zero": 0.08800773694390715,
+    "share_with_at_least_10": 0.501381597126278
+  }
+}
